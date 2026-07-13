@@ -77,7 +77,7 @@ The portfolio is optimized for all device sizes:
 ## 🔗 Links
 
 - **GitHub:** [github.com/Nikita-Parjane27](https://github.com/Nikita-Parjane27)
-- **Portfolio:** [View Live](#)
+- **Portfolio:** [View Live](https://portfolio-nikita-parjane.vercel.app/)
 
 ## 📝 License
 
@@ -91,8 +91,8 @@ Feel free to fork this project and submit pull requests for any improvements.
 
 For inquiries or collaboration opportunities, please reach out through:
 - GitHub Issues
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: [nikitaparjane27@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/nikita-parjane/]
 
 ---
 
